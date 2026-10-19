@@ -1,2 +1,4 @@
-# CCN-for-Epilepsy-Detection
-Can convolutional neural networks accurately detect epileptic seizures in children (1.5-22 y/o) from EEG signals converted into STFT Spectrogram images?
+# Deep-Learniing-for-Epilepsy-Detection
+How do different neural network architectures and hyperparameter configurations affect pediatric epileptic seizure detection using EEG signals converted into STFT spectrograms?
+
+
